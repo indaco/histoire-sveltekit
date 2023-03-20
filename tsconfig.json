@@ -11,10 +11,10 @@
 		"strict": true,
 		"types": ["vitest/globals"],
 		"paths": {
-			"$lib": ["src/lib"],
-			"$lib/*": ["src/lib/*"],
-			"$components": ["src/lib/components"],
-			"$components/*": ["src/lib/components/*"]
+			"$lib": ["./src/lib"],
+			"$lib/*": ["./src/lib/*"],
+			"$components": ["./src/lib/components"],
+			"$components/*": ["./src/lib/components/*"]
 		}
 	},
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias
