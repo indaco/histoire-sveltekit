@@ -12,10 +12,10 @@ Read more [here](https://docs.github.com/en/repositories/creating-and-managing-r
 
 ```bash
 # Install the project dependencies.
-npm run install (or pnpm install)
+npm run install # or pnpm install
 
 # Run Histoire
-npm run story (or pnpm story)
+npm run story # pnpm story
 ```
 
 ## Create a new component
