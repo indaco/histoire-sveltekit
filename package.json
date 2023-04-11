@@ -2,7 +2,7 @@
 	"name": "histoire-sveltekit",
 	"version": "0.0.1",
 	"private": true,
-	"packageManager": "pnpm@7.30.0",
+	"packageManager": "pnpm@8.2.0",
 	"description": "Template repository for new projects with support to Histoire, SvelteKit, Typescript, Plop, Vitest and Tailwind CSS.",
 	"author": "indaco <github@mircoveltri.me>",
 	"license": "MIT",
