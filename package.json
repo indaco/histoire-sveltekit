@@ -35,7 +35,7 @@
 		"c8": "^7.13.0",
 		"eslint": "^8.38.0",
 		"eslint-config-prettier": "^8.8.0",
-		"eslint-plugin-svelte3": "^4.0.0",
+		"eslint-plugin-svelte": "^2.26.0",
 		"flexsearch": "^0.7.31",
 		"histoire": "^0.15.9",
 		"jsdom": "^20.0.3",
