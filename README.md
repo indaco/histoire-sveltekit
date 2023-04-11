@@ -1,4 +1,4 @@
-# Histoire + SvelteKit + TS  + Vitest + Tailwind CSS
+# Histoire + SvelteKit + TS + Vitest + Tailwind CSS
 
 Template repository for new projects with support to Histoire, SvelteKit, Typescript, Plop, Vitest and Tailwind CSS.
 
