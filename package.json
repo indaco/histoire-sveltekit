@@ -25,7 +25,7 @@
 		"@histoire/controls": "^0.16.1",
 		"@histoire/plugin-svelte": "^0.16.1",
 		"@sveltejs/adapter-auto": "^2.0.0",
-		"@sveltejs/kit": "^1.15.4",
+		"@sveltejs/kit": "^1.15.5",
 		"@sveltejs/vite-plugin-svelte": "^2.0.4",
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/svelte": "^3.2.2",
