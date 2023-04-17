@@ -22,8 +22,8 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@histoire/controls": "^0.15.9",
-		"@histoire/plugin-svelte": "^0.15.9",
+		"@histoire/controls": "^0.16.1",
+		"@histoire/plugin-svelte": "^0.16.1",
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/kit": "^1.15.4",
 		"@sveltejs/vite-plugin-svelte": "^2.0.4",
@@ -37,7 +37,7 @@
 		"eslint-config-prettier": "^8.8.0",
 		"eslint-plugin-svelte": "^2.26.0",
 		"flexsearch": "^0.7.31",
-		"histoire": "^0.15.9",
+		"histoire": "^0.16.1",
 		"jsdom": "^20.0.3",
 		"plop": "^3.1.2",
 		"postcss": "^8.4.21",
